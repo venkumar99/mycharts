@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-12T08:08:21.890260442-08:00
+    created: 2018-02-12T09:03:17.613352595-08:00
     description: A Helm chart for Kubernetes
     digest: 9b0a95a27d2f06c65dd16fae2b84975a6be456b19da7f8d8b1148a309cad90e1
     name: notificationchart
@@ -11,11 +11,11 @@ entries:
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-12T08:08:21.890507733-08:00
+    created: 2018-02-12T09:03:17.613793896-08:00
     description: A Helm chart for Kubernetes
-    digest: a62210362f3ea72d9f06364da36496b4c4cb66633fd7f1059b074cee443e7dee
+    digest: 95c525993975a99a6e4140da8a8dddf9c5dc9f1265a86458ca0b60b9baac83a9
     name: traderchart
     urls:
     - https://venkumar99.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-12T08:08:21.889758636-08:00
+generated: 2018-02-12T09:03:17.612972116-08:00
