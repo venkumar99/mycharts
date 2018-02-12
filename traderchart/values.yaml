@@ -1,7 +1,7 @@
 # Default values for traderchart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-myvalue: "traderchart"
+myvalue:  "trader chart"
 replicaCount: 1
 image:
   repository: nginx
